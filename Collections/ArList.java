@@ -22,6 +22,7 @@ public class ArList {
 		System.out.println(a);
 		System.out.println(a.remove(3));// remove the specified value by using index
 		System.out.println(a.removeAll(a));// Boolean concept.If it removes all then true or false
+		system.out.println("DONE");
 		
 		a.add(100);
 		a.add("Karthik");
